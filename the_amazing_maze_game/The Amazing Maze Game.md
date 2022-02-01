@@ -1,2 +1,0 @@
-# The Amazing Maze Game
-
