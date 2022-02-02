@@ -18,6 +18,10 @@ This is the documentation site for the JJTBM Games project. On this page all the
 
 * [Project plan](https://jjtbm-games.github.io/projectplan/)
 
+### Docs
+
+[Docs homepage](https://jjtbm-games.github.io/docs/)
+
 ### Others
 
 * [Repositories](https://github.com/orgs/JJTBM-Games/repositories)
