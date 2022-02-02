@@ -163,3 +163,10 @@ The challenge lies in the risk-reward ratio. You can choose to take a risk by ta
 
 # Technical requirements
 
+| Elements            | Technical skills necessary          |
+| ------------------- | ----------------------------------- |
+| Random level design | Random generation, Pathfinding      |
+| Game music          | Ability  to make sound with an FPGA |
+| Game design         | Creativity                          |
+| Player input        | Soldering                           |
+| Programming a FPGA  | VHDL knowledge                      |
