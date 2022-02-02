@@ -43,11 +43,12 @@ In this game, a player is tasked to solve a maze as fast as possible. Levels are
 
 ### Inspirations
 
-A lot of competitive maze games have already been made before, these have been used as inspiration for the maze game that could be made for this project.
+| Name                                                         | Image                        |
+| ------------------------------------------------------------ | ---------------------------- |
+| [Gotcha](https://en.wikipedia.org/wiki/Gotcha_(video_game))  | <img src='Gotcha.gif'/>      |
+| [Berzerk](https://en.wikipedia.org/wiki/Berzerk_(video_game)) | <img src='Berzerk.gif'/>     |
+| [The amazing maze game](https://en.wikipedia.org/wiki/The_Amazing_Maze_Game) | <img src='Amazing_Maze.png'> |
 
-* [The amazing maze game](https://en.wikipedia.org/wiki/The_Amazing_Maze_Game)
-* [Gotcha](https://en.wikipedia.org/wiki/Gotcha_(video_game))
-* [Berzerk](https://en.wikipedia.org/wiki/Berzerk_(video_game))
 
 ### Technical challenges
 
@@ -94,8 +95,10 @@ The player, a monkey, is tasked to destroy a city. For every building that the p
 
 ### Inspirations
 
-* [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))
-* [Godzilla](https://en.wikipedia.org/wiki/Godzilla_(1983_video_game))
+| Name                                                         | Image                                             |
+| ------------------------------------------------------------ | ------------------------------------------------- |
+| [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)) | <img src='Donkey_Kong.gif'/>                      |
+| [Godzilla](https://en.wikipedia.org/wiki/Godzilla_(1983_video_game)) | <img src='Godzilla.jpg' style='max-width:500px'/> |
 
 ### Technical challenges
 
