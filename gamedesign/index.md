@@ -11,7 +11,7 @@
 | Version | By         | Date          |
 | ------- | ---------- | ------------- |
 | 0.1     | Tim Laheij | Initial Setup |
-|         |            |               |
+| 0.2     | Tim Laheij | Divergin ideas|
 |         |            |               |
 
 # Table of contents
