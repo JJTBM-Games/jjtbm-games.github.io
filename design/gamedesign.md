@@ -45,9 +45,9 @@ In this game, a player is tasked to solve a maze as fast as possible. Levels are
 
 | Name                                                         | Image                        |
 | ------------------------------------------------------------ | ---------------------------- |
-| [Gotcha](https://en.wikipedia.org/wiki/Gotcha_(video_game))  | <img src='Gotcha.gif'/>      |
-| [Berzerk](https://en.wikipedia.org/wiki/Berzerk_(video_game)) | <img src='Berzerk.gif'/>     |
-| [The amazing maze game](https://en.wikipedia.org/wiki/The_Amazing_Maze_Game) | <img src='Amazing_Maze.png'> |
+| [Gotcha](https://en.wikipedia.org/wiki/Gotcha_(video_game))  | <img src='gamedesign_assests/Gotcha.gif'/>      |
+| [Berzerk](https://en.wikipedia.org/wiki/Berzerk_(video_game)) | <img src='gamedesign_assests/Berzerk.gif'/>     |
+| [The amazing maze game](https://en.wikipedia.org/wiki/The_Amazing_Maze_Game) | <img src='gamedesign_assests/Amazing_Maze.png'> |
 
 
 ### Technical challenges
@@ -97,8 +97,8 @@ The player, a monkey, is tasked to destroy a city. For every building that the p
 
 | Name                                                         | Image                                             |
 | ------------------------------------------------------------ | ------------------------------------------------- |
-| [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)) | <img src='Donkey_Kong.gif'/>                      |
-| [Godzilla](https://en.wikipedia.org/wiki/Godzilla_(1983_video_game)) | <img src='Godzilla.jpg' style='max-width:500px'/> |
+| [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)) | <img src='gamedesign_assests/Donkey_Kong.gif'/>                      |
+| [Godzilla](https://en.wikipedia.org/wiki/Godzilla_(1983_video_game)) | <img src='gamedesign_assests/Godzilla.jpg' style='max-width:500px'/> |
 
 ### Technical challenges
 
@@ -132,7 +132,7 @@ Player actions:
 
 # Typical level
 
-<img src="Ram_Race.png" style="zoom:75%; margin-left: 0px;" />
+<img src="gamedesign_assests/Ram_Race.png" style="zoom:75%; margin-left: 0px;" />
 The playing field consists of a square divided into a right and left side. Each player is assigned a side in which he/she must reach the end of an identical mirrored maze before the opposing player does. Enemies are scattered throughout the maze, which shoot periodically. By deviating from the fastest path and taking a power up you also have the option to shoot. you can then shoot an enemy or smash a wall to speed through the maze.
 The challenge lies in the risk-reward ratio. You can choose to take a risk by taking a power up, where you have the chance to be shot by an enemy or you can try to reach the end without a power up.
 
