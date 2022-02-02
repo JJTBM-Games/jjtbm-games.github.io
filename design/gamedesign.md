@@ -133,6 +133,7 @@ Player actions:
 # Typical level
 
 <img src="gamedesign_assets/Ram_Race.png" style="zoom:75%; margin-left: 0px;" />
+
 The playing field consists of a square divided into a right and left side. Each player is assigned a side in which he/she must reach the end of an identical mirrored maze before the opposing player does. Enemies are scattered throughout the maze, which shoot periodically. By deviating from the fastest path and taking a power up you also have the option to shoot. you can then shoot an enemy or smash a wall to speed through the maze.
 The challenge lies in the risk-reward ratio. You can choose to take a risk by taking a power up, where you have the chance to be shot by an enemy or you can try to reach the end without a power up.
 
