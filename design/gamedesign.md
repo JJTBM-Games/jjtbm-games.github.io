@@ -123,9 +123,6 @@ Player actions:
 * Player must dodge bullets from NPC's.
 * Player must get the highest score.
 
-
-# Converging Idea
-
 # Converging Idea
 
 To settle on one game idea, a combination of elements will be used to create a game that contains key elements from each idea.
