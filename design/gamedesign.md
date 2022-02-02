@@ -3,16 +3,16 @@
 | Name              | Student number |
 | :---------------- | :------------- |
 | Bram Scheepers    | 2152377        |
-| Joas Onvlee       |                |
-| Jochem Wabbijn    |                |
+| Joas Onvlee       |  2170887              |
+| Jochem Wabbijn    | 2169436               |
 | Maarten Dullemond | 2150474        |
 | Tim Laheij        | 2167667        |
 
 | Version | By         | Date          |
 | ------- | ---------- | ------------- |
 | 0.1     | Tim Laheij | Initial Setup |
-| 0.2     | Tim Laheij | Divergin ideas|
-|         |            |               |
+| 0.2     | Tim Laheij | Diverging ideas|
+| 0.3        | Tim Laheij & Bram Scheepers           |        Typical level & Converging ideas       |
 
 # Table of contents
 
@@ -126,6 +126,33 @@ Player actions:
 
 # Converging Idea
 
+# Converging Idea
+
+To settle on one game idea, a combination of elements will be used to create a game that contains key elements from each idea.
+
+## Elements from Maze Game
+
+| Element                        | Reason                                                       |
+| ------------------------------ | ------------------------------------------------------------ |
+| Competitive multiplayer aspect | The competitive multiplayer aspect makes the game fun to play, as it is possible to compete with friends in real time. |
+| Player has to complete a maze  | Solving a maze adds a puzzle element to the game, which can make the game more challenging. |
+| Time based high score          | Using a high score system based on time. Players can also play the game solo. |
+
+## Elements from Monkey rampage
+
+| Element                      | Reason                                                       |
+| ---------------------------- | ------------------------------------------------------------ |
+| Power-ups                    | Power-ups offer the player a way of interacting with the environment. |
+| NPC's can shoot the player   | The element of danger that this brings to the game makes the game more challenging. |
+| Interaction with environment | Players should be able to alter the maze by interacting with their environment. |
+
+By combining the elements from these games, a new game is created. 
+
+## Short explanation
+
+The game that will be made will consist of certain elements in the game 'Tank' and 'The Amazing Maze Game'. Two players compete to reach the end of a maze as fast as possible. While completing the maze, players are confronted with enemies and powerups.  Players can sneak past an enemy or use a powerup to take it out.  Whoever reaches the end first wins the game.
+
+The game could also have a single player mode in which the core concepts stay the same. Instead of competing against another player, high scores can be set based on the time of completion.
 
 # Gameplay
 
