@@ -12,7 +12,7 @@ This is the documentation site for the JJTBM Games project. On this page all the
 ### Design
 
 * [Architecture Document](https://jjtbm-games.github.io/design/architecture-docuement)
-* [Game Design](https://jjtbm-games.github.io/design/game-design)
+* [Game Design](https://jjtbm-games.github.io/design/gamedesign)
 
 ### Project plan
 
@@ -24,7 +24,9 @@ This is the documentation site for the JJTBM Games project. On this page all the
 
 * [Scrum Backlog](https://github.com/orgs/JJTBM-Games/projects/1/views/1)
 
-* [Rubric](https://jjtbm-games.github.io/rubric)
-  * [Rubric Sprint 1](https://jjtbm-games.github.io/rubric/index#rubric-sprint-1)
-  * [Rubric Sprint 2](https://jjtbm-games.github.io/rubric/index#rubric-sprint-2)
-  * [Rubric Sprint 3](https://jjtbm-games.github.io/rubric/index#rubric-sprint-3)
+* [Useful links](https://jjtbm-games.github.io/others/links)
+
+* [Rubric](https://jjtbm-games.github.io/others/rubrics)
+  * [Rubric Sprint 1](https://jjtbm-games.github.io/others/rubrics#rubric-sprint-1)
+  * [Rubric Sprint 2](https://jjtbm-games.github.io/others/rubrics#rubric-sprint-2)
+  * [Rubric Sprint 3](https://jjtbm-games.github.io/others/rubrics#rubric-sprint-3)
