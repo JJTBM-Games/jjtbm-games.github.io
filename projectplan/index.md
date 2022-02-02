@@ -1,5 +1,6 @@
 # Project plan
 
+This document contains the project plan for project retro game in the 7th semester. In this project a retro game must be realized by using a FPGA and/or micro controller, without a operation system. The project plan describes the organization and quality of the project and product. 
 
 
 ## Organization
