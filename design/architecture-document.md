@@ -1,5 +1,9 @@
 # Architecture Ram Race
 
+![Mens van Vitruvius en Vitruviusman - Wikipedia](Architecture.assets/260px-Da_Vinci_Vitruve_Luc_Viatour.jpg)
+
+
+
 | Name              | Student number |
 | ----------------- | -------------- |
 | Bram Scheepers    | 2152377        |
@@ -31,7 +35,7 @@ In the 7th quarter of the study Computer Science at Avans University of Applied 
 notes:
 
 * fpga ipv stm32,
-*  type joystick, 
+* type joystick, 
 
 ## Initial setup
 
@@ -43,14 +47,13 @@ notes:
 
 ## Architecture 
 
-
-
 # Display
 
 notes: 
 
 * resolution, 
 * fps, 
+* rendering
 
 ## Initial setup
 
@@ -64,19 +67,22 @@ notes:
 
 # Visuals
 
-notes: 
+The goal in this paragraph is to clarify choices specific to the visual representation of Ram Race. The game must by visually appealing to ensure the best game experience for the end-users.
 
-* pixels size, 
-* sprites vs vector, 
-* designer(broertje tim),
-*  name selector(key board),
-*  scoreboard design, 
-* level design, 
-* menu design
+In this paragraph an initial setup, all criteria, and considered options are given to create a solid framework. Finally the necessary architecture is given in the form of UML diagram(s). 
 
 ## Initial setup
 
+
+
 ## Criteria 
+
+| Index | Criteria    | Explanation                         |
+| ----- | ----------- | ----------------------------------- |
+| 1.0   | sprite size | must be smaller or equal to 32 bits |
+| 2.0   |             |                                     |
+
+
 
 ## Options 
 
@@ -84,16 +90,26 @@ notes:
 
 ## Architecture 
 
+notes: 
+
+* pixels size, 
+* sprites vs vector, 
+* designer(broertje tim),
+* name selector(key board),
+* scoreboard design, 
+* level design, 
+* menu design
+
 # Logic 
 
 notes:
 
 *  static grid vs dynamic grid(rendering time), 
-* collision handling, 
-* audio playback, 
-* character movement(hold switch), 
-* menu flow, 
-* game flow
+*  collision handling, 
+*  audio playback, 
+*  character movement(hold switch), 
+*  menu flow, 
+*  game flow
 
 ## Initial setup
 
@@ -112,3 +128,8 @@ notes:
 
 
 # Bibliography 
+
+
+
+
+
