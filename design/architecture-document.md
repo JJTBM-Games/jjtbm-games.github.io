@@ -1,8 +1,5 @@
 # Architecture Ram Race
 
-![Mens van Vitruvius en Vitruviusman - Wikipedia](Architecture.assets/260px-Da_Vinci_Vitruve_Luc_Viatour.jpg)
-
-
 
 | Name              | Student number |
 | ----------------- | -------------- |
