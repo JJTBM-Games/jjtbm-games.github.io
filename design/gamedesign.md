@@ -93,7 +93,7 @@ The player, a monkey, is tasked to destroy a city. For every building that the p
 | -------------------------- | ------------------------------------------------------------ |
 | Destroying the environment | The destruction of elements in the environment allows the player to gather points. |
 | NPC's                      | The NPC's in the game provide an extra challenge to the player as the game progresses. |
-| High score                 | The scoreboard motivates the player to keep playing in order to beat a previous high score. |
+| score                 | The scoreboard motivates the player to keep playing in order to beat a previous high score. |
 
 ### Inspirations
 
@@ -195,6 +195,9 @@ The game that will be made will consist of certain elements in the game 'Tank' a
 
 The playing field consists of a square divided into a right and left side. Each player is assigned a side in which he/she must reach the end of an identical mirrored maze before the opposing player does. Enemies are scattered throughout the maze, which shoot periodically. By deviating from the fastest path and taking a power up you also have the option to shoot. you can then shoot an enemy or smash a wall to speed through the maze.
 The challenge lies in the risk-reward ratio. You can choose to take a risk by taking a power up, where you have the chance to be shot by an enemy or you can try to reach the end without a power up.
+
+# Score
+A score is set by the ammount of wins a player has in a row. A player is able to play anonymously as well as with a 3 letter nickname. 
 
 # Technical requirements
 
