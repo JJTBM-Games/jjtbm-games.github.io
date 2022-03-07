@@ -77,8 +77,6 @@ Player actions:
 * Use power-ups to interact with the environment.
 * Use power-ups to negatively impact the other players performance.
 
-* In solo-mode, beat high scores.
-
 ## Monkey rampage
 
 ### Idea creator
@@ -137,7 +135,6 @@ To settle on one game idea, a combination of elements will be used to create a g
 | ------------------------------ | ------------------------------------------------------------ |
 | Competitive multiplayer aspect | The competitive multiplayer aspect makes the game fun to play, as it is possible to compete with friends in real time. |
 | Player has to complete a maze  | Solving a maze adds a puzzle element to the game, which can make the game more challenging. |
-| Time based high score          | Using a high score system based on time. Players can also play the game solo. |
 
 ## Elements from Monkey rampage
 
@@ -152,8 +149,6 @@ By combining the elements from these games, a new game is created.
 ## Short explanation
 
 The game that will be made will consist of certain elements in the game 'Tank' and 'The Amazing Maze Game'. Two players compete to reach the end of a maze as fast as possible. While completing the maze, players are confronted with enemies and powerups.  Players can sneak past an enemy or use a powerup to take it out.  Whoever reaches the end first wins the game.
-
-The game could also have a single player mode in which the core concepts stay the same. Instead of competing against another player, high scores can be set based on the time of completion.
 
 # Gameplay
 
