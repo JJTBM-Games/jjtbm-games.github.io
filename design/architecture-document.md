@@ -45,15 +45,19 @@ notes:
 
 # Display
 
-notes: 
+The goal in this paragraph is to clarify choices specific the Ram Race display and rendering of visual components. The game must by visually appealing to ensure the best game experience for the end-users. 
 
-* resolution, 
-* fps, 
-* rendering
+In this paragraph an initial setup, all criteria, and considered options are given to create a solid framework. Finally the necessary architecture is given in the form of UML diagram(s). 
 
 ## Initial setup
 
 ## Criteria 
+
+| Index | Criteria | Explanation |
+| :---- | -------- | ----------- |
+|       |          |             |
+|       |          |             |
+|       |          |             |
 
 ## Options 
 
@@ -61,7 +65,10 @@ notes:
 
 ## Architecture 
 
+notes: 
 
+* resolution, (640,480)
+* fps, (30)
 
 # Game hardware
 
@@ -110,6 +117,12 @@ notes:
 ### Initial setup
 
 ### Criteria 
+
+| Index | Criteria | Explanation |
+| :---- | -------- | ----------- |
+|       |          |             |
+|       |          |             |
+|       |          |             |
 
 ### Options 
 
