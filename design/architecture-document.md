@@ -1,6 +1,5 @@
 # Architecture Ram Race
 
-
 | Name              | Student number |
 | ----------------- | -------------- |
 | Bram Scheepers    | 2152377        |
@@ -62,30 +61,30 @@ notes:
 
 ## Architecture 
 
-# Visuals
+
+
+# Game hardware
+
+##  Visuals
 
 The goal in this paragraph is to clarify choices specific to the visual representation of Ram Race. The game must by visually appealing to ensure the best game experience for the end-users.
 
 In this paragraph an initial setup, all criteria, and considered options are given to create a solid framework. Finally the necessary architecture is given in the form of UML diagram(s). 
 
-## Initial setup
+### Initial setup
 
-
-
-## Criteria 
+### Criteria 
 
 | Index | Criteria    | Explanation                         |
 | ----- | ----------- | ----------------------------------- |
 | 1.0   | sprite size | must be smaller or equal to 32 bits |
 | 2.0   |             |                                     |
 
+### Options 
 
+### Choices 
 
-## Options 
-
-## Choices 
-
-## Architecture 
+### Architecture 
 
 notes: 
 
@@ -97,7 +96,7 @@ notes:
 * level design, 
 * menu design
 
-# Logic 
+## Logic 
 
 notes:
 
@@ -108,15 +107,15 @@ notes:
 *  menu flow, 
 *  game flow
 
-## Initial setup
+### Initial setup
 
-## Criteria 
+### Criteria 
 
-## Options 
+### Options 
 
-## Choices 
+### Choices 
 
-## Architecture 
+### Architecture 
 
 
 
@@ -125,8 +124,3 @@ notes:
 
 
 # Bibliography 
-
-
-
-
-
