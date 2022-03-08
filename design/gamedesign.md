@@ -197,7 +197,8 @@ The playing field consists of a square divided into a right and left side. Each 
 The challenge lies in the risk-reward ratio. You can choose to take a risk by taking a power up, where you have the chance to be shot by an enemy or you can try to reach the end without a power up.
 
 # Score
-A score is set by the ammount of wins a player has in a row. A player is able to play anonymously as well as with a 3 letter nickname. 
+Max_points - ((max_points / Max_Time) * Time_Taken)
+Each level must have a maxium point set. 
 
 # Technical requirements
 
