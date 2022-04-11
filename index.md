@@ -11,7 +11,7 @@ This is the documentation site for the JJTBM Games project. On this page all the
 
 ### Design
 
-* [Architecture Document](https://jjtbm-games.github.io/design/designRamRace.md)
+* [Architecture Document](https://jjtbm-games.github.io/design/designRamRace)
 * [Game Design](https://jjtbm-games.github.io/design/gamedesign)
 
 ### Project plan
